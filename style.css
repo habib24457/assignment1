@@ -1,0 +1,130 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+section {
+  margin-top: 0%;
+  margin-bottom: 100px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  height: 500px;
+}
+
+.name-color {
+  color: orange;
+  font-size: 50px;
+}
+
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  margin-top: 5%;
+  padding-left: 2%;
+}
+
+.half-width img {
+  width: 80%;
+}
+
+.button-design {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, rgb(29, 141, 185), rgb(36, 192, 88));
+  padding: 10px 20px;
+  color: azure;
+  border-radius: 3px;
+}
+
+h2 {
+  display: inline;
+  justify-content: space-between;
+}
+
+.title {
+  margin-left: 500px;
+  margin-right: 500px;
+  float: left;
+  margin-top: 10%;
+}
+
+.red-color {
+  color: rgb(226, 168, 59);
+}
+
+.working-project-back {
+  background-color: rgb(245, 245, 245);
+  background-repeat: no-repeat;
+  height: 650px;
+}
+
+.project-width {
+  margin-top: 2%;
+  width: 30%;
+  float: left;
+  margin-left: 2.5%;
+}
+
+.project-width img {
+  width: 100%;
+}
+
+.work-inquery {
+  background-image: url("images/working.png");
+  background-size: 750px;
+  height: 200px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.work-inquery h1 {
+  color: rgb(236, 240, 243);
+  margin-left: 25%;
+  float: left;
+}
+
+.chat-button {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, rgb(29, 141, 185), rgb(36, 192, 88));
+  color: azure;
+  padding: 10px 20px;
+  border-radius: 3px;
+  float: right;
+  margin-right: 30%;
+  display: inline;
+  clear: both;
+}
+
+footer {
+  margin-top: 0%;
+  margin-bottom: 100px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  height: 200px;
+}
+
+footer h3 {
+  text-align: center;
+  color: rgb(146, 151, 151);
+}
+
+.positioning {
+  margin-left: 45%;
+  margin-right: 35%;
+}
+
+.social-link {
+  margin-top: 2%;
+  width: 10%;
+  float: left;
+  padding-left: 2.5%;
+}
+
+.social-link img {
+  width: 100%;
+}
